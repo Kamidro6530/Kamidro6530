@@ -1,5 +1,5 @@
 ### About me 👋
-Hi everyone, I'm Daniel I would like to work as Junior Android Developer
+Hi everyone, I'm Daniel and I'm looking for my first Job
 
 ## I’m currently learning	📝
 All the theory I need to apply for the position of Junior Android Developer and I am constantly trying to improve my English 
