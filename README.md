@@ -1,5 +1,5 @@
 ### About me 👋
-Hi everyone, I'm Daniel and I'm looking for my first Job
+Hi everyone, I'm Daniel and I'm looking for my first job
 
 ## I’m currently learning	📝
 All the theory I need to apply for the position of Junior Android Developer and I am constantly trying to improve my English 
