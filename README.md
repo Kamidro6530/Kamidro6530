@@ -2,7 +2,7 @@
 Hi everyone, I'm Daniel and I'm looking for my first job
 
 ## I’m currently learning	📝
-All the theory I need to apply for the position of Junior Android Developer and I am constantly trying to improve my English 
+I'm learning to write unit tests and I am place great emphasis on learning English
 
 ## Languages and Tools I use on daily basis 🔧
 💬 Kotlin <br>
