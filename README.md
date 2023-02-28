@@ -2,10 +2,11 @@
 Hi everyone, I'm Daniel and I'm looking for my first job
 
 ## I’m currently learning	📝
-I'm learning to write unit tests and I am place great emphasis on learning English
+I'm learning Spring and I am place great emphasis on learning English
 
 ## Languages and Tools I use on daily basis 🔧
 💬 Kotlin <br>
+💬 Java <br>
 ✔️ Retrofit2 <br>
 ✔️ MVVM <br>
 ✔️ Room <br>
